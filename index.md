@@ -15,33 +15,23 @@ git clone https://github.com/cloudlibz/gocloud.git
 
 **Compute**  --Allows you to manage cloud and virtual servers.
 
-[Link to Compute - AWS](Compute/ec2)
-
-[Link to Compute - GCE](Compute/gce)
+[Link to Compute - AWS](Compute/ec2) | [Link to Compute - GCE](Compute/gce)
 
 **Compute Storage**  --Allows you to manage Compute storage.
 
-[Link to Amazon Storage](Storage/amazonstorage)
-
-[Link to Google Storage](Storage/googlestorage)
+[Link to Amazon Storage](Storage/amazonstorage) | [Link to Google Storage](Storage/googlestorage)
 
 **Container**  --Allows users to install and deploy containers onto container based virtualization platforms.
 
-[Link to AWS Container](Container/aws-container)
-
-[Link to Google Container](Container/google-container)
+[Link to AWS Container](Container/aws-container) | [Link to Google Container](Container/google-container)
 
 **Load balancer**  --Allows you to manager Load Balancer service.
 
-[Link to AWS Load Balancer](LoadBalancer/awsloadbalancer)
-
-[Link to Google Load Balancer](LoadBalancer/googleloadbalancer)
+[Link to AWS Load Balancer](LoadBalancer/awsloadbalancer) | [Link to Google Load Balancer](LoadBalancer/googleloadbalancer)
 
 **DNS**  --Allows you to manage DNS service.
 
-[Link to AWS Route53](DNS/aws-route53)
-
-[Link to Google DNS](DNS/googledns)
+[Link to AWS Route53](DNS/aws-route53) | [Link to Google DNS](DNS/googledns)
 
 ## [Service Providers](#Service Providers)
 
