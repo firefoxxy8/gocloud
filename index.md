@@ -2,9 +2,7 @@
 layout: default
 ---
 
-![](../images/logo.png)
-
-# [Cloud services library](#header-1)
+![](https://github.com/lakindu95/gocloud/blob/gh-pages/assets/images/logo.png)
 
 GoCloud is a golang library which hides differences between different cloud providers' (AWS,GCP,Openstack etc) APIs and allows you to manage different cloud resources through a unified and easy to use API.
 
