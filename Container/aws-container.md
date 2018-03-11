@@ -60,7 +60,8 @@ amazoncloud, _ := gocloud.CloudProvider(gocloud.Amazonprovider)
 ### Create service
 
 ```js
- LoadBalancers := []map[string]interface{}{{
+ LoadBalancers := []map[string]interface{}{
+	{
 	"containerName":    "rootmonk",
 	"loadBalancerName": "us-east-2",
 	}, 
