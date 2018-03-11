@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+![](assets/logo.png)
+
 # [Go Cloud](#header-1)
 Cloud services library
 
