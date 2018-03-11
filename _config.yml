@@ -1,5 +1,6 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Go Cloud
+description: 
+GoCloud is a golang library which hides differences between different cloud providers' (AWS,GCP,Openstack etc) APIs and allows you to manage different cloud resources through a unified and easy to use API.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
