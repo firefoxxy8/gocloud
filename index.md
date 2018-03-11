@@ -15,7 +15,7 @@ git clone https://github.com/cloudlibz/gocloud.git
 
 **Compute**  --Allows you to manage cloud and virtual servers.
 
-[Link to Compute - AWS](Compute/ec2) | [Link to Compute - GCE](Compute/gce)
+[Link to AWS EC2](Compute/ec2) | [Link to GCE](Compute/gce)
 
 **Compute Storage**  --Allows you to manage Compute storage.
 
