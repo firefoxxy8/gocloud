@@ -6,6 +6,11 @@ layout: default
 
 GoCloud is a golang library which hides differences between different cloud providers' (AWS,GCP,Openstack etc) APIs and allows you to manage different cloud resources through a unified and easy to use API.
 
+_Fork me!_
+```
+git clone https://github.com/cloudlibz/gocloud.git
+```
+
 ## [Service Types](#header-2)
 
 **Compute**  --Allows you to manage cloud and virtual servers.
