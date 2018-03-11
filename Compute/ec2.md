@@ -98,7 +98,4 @@ amazoncloud, _ := gocloud.CloudProvider(gocloud.Amazonprovider)
   fmt.Println(response["body"])
 ```
 
-
-_yay_
-
-[back](./)
+[Back to Home Page](../)
