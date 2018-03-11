@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [Go Cloud](#header-1)Header 1
+Cloud services library
 
-[Link to another page](another-page).
+GoCloud is a golang library which hides differences between different cloud providers' (AWS,GCP,Openstack etc) APIs and allows you to manage different cloud resources through a unified and easy to use API.
 
-There should be whitespace between paragraphs.
+## [Service Types](#header-2)Header 2
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Compute**  --Allows you to manage cloud and virtual servers.
 
-# [](#header-1)Header 1
+**Compute Storage**  --Allows you to manage Compute storage.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Container**  --Allows users to install and deploy containers onto container based virtualization platforms.
 
-## [](#header-2)Header 2
+**Load balancer**  --Allows you to manager Load Balancer service.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**DNS**  --Allows you to manage DNS service.
 
-### [](#header-3)Header 3
+## [Service Providers](#header-2)Header 2
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### [AWS](#header-3)Header 3
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- EC2 (Compute)
+- EC2 Storage
+- Amazon Elastic Container Service (Container)
+- Elastic Load Balancing
+- AWS Route53
 
-#### [](#header-4)Header 4
+### [Google](#header-3)Header 3
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Google Compute
+- Google Compute Storage
+- Google  Container Service (Container)
+- Google Elastic Load Balancing 
+- Google DNS 
 
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Currently, implementaions for other cloud providers are being worked on.
