@@ -6,9 +6,8 @@ layout: default
 
 GoCloud is a golang library which hides differences between different cloud providers' (AWS,GCP,Openstack etc) APIs and allows you to manage different cloud resources through a unified and easy to use API.
 
-_Fork me!_
 ```
-git clone https://github.com/cloudlibz/gocloud.git
+_Fork me!_ git clone https://github.com/cloudlibz/gocloud.git
 ```
 
 ## [Service Types](#header-2)
@@ -48,4 +47,3 @@ git clone https://github.com/cloudlibz/gocloud.git
 - Google DNS 
 
 Currently, implementaions for other cloud providers are being worked on.
-[Link to another page](another-page).
