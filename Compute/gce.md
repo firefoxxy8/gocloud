@@ -53,8 +53,7 @@ googlecloud, _ := gocloud.CloudProvider(gocloud.Googleprovider)
  AccessConfigs := []map[string]string{{
 	"Name": "external-nat",
 	"Type": "ONE_TO_ONE_NAT",
-  },
-  }
+  }}
 
   NetworkInterfaces := []map[string]interface{}{
    {
