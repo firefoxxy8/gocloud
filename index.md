@@ -48,3 +48,4 @@ git clone https://github.com/cloudlibz/gocloud.git
 - Google DNS 
 
 Currently, implementaions for other cloud providers are being worked on.
+[Link to another page](another-page).
