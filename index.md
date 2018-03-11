@@ -14,14 +14,20 @@ git clone https://github.com/cloudlibz/gocloud.git
 ## [Service Types](#header-2)
 
 **Compute**  --Allows you to manage cloud and virtual servers.
+[Link to Compute - AWS](Compute/ec2).
+[Link to Compute - GCE](Compute/gce)
 
 **Compute Storage**  --Allows you to manage Compute storage.
+[Link to Compute Storage](another-page).
 
 **Container**  --Allows users to install and deploy containers onto container based virtualization platforms.
+[Link to Container](another-page).
 
 **Load balancer**  --Allows you to manager Load Balancer service.
+[Link to Load balancer](another-page).
 
 **DNS**  --Allows you to manage DNS service.
+[Link to DNS](another-page).
 
 ## [Service Providers](#header-2)
 
