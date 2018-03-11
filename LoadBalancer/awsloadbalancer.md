@@ -33,7 +33,8 @@ amazoncloud, _ := gocloud.CloudProvider(gocloud.Amazonprovider)
 ### Create loadbalancer
 
 ```js
- Listeners := []map[string]string{{
+ Listeners := []map[string]string{
+	 {
 	"InstancePort":     "80",
 	"LoadBalancerPort": "80",
 	"Protocol":         "http",
